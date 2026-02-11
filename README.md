@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&pause=900&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I%E2%80%99m+Marie;Welcome+to+my+GitHub%21+%E2%9C%A8"
@@ -28,3 +30,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybr-wisp&show_icons=true&locale=en&layout=compact" alt="cybr-wisp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybr-wisp&show_icons=true&locale=en" alt="cybr-wisp" /></p>
+
+
+
+## Off-duty
+## Off-duty
+I’m into fashion archives, art, and culture — patterns, provenance, and the stories behind objects.
+
+<p align="left">
+  <img src="https://i.pinimg.com/736x/1e/e9/cb/1ee9cbac0c1e15462c4478a61bc5d6d7.jpg"
+       alt="Fashion archive bunny meme"
+       width="260" />
+</p>
