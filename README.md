@@ -62,6 +62,23 @@
   </tr>
 </table
 
+<img src="https://github-readme-stats.vercel.app/api?username=cybr-wisp&show_icons=true&cache_seconds=21600" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cybr-wisp&show_icons=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybr-wisp&layout=compact" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cybr-wisp" height="170" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybr-wisp" />
+</p>
+
+
+
 
 ## Off-duty
 I’m into fashion archives, art, and culture — patterns, provenance, and the stories behind objects.  
