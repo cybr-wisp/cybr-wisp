@@ -111,7 +111,7 @@ Market Microstructure · Event-Driven Systems · Reinforcement Learning · Alpha
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
 </p>
 
-## Off-duty
+#### off-duty 
 I’m into fashion archives, art, and culture — patterns, provenance, and the stories behind objects.  
 I also write about it here: https://marierubyblue.substack.com/
 
