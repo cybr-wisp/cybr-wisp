@@ -5,6 +5,23 @@
   />
 </p>
 
+-------
+### Mathematical Foundations
+Linear Algebra · Probability Theory · Statistical Inference · Optimization · Stochastic Processes
+### Research Interests
+Market Microstructure · Event-Driven Systems · Reinforcement Learning · Alpha Signal Engineering · Distributed Systems
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cybr-wisp&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cybr-wisp&hide_border=true&background=0A192F&ring=1F3A8A&fire=1F3A8A&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=94A3B8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cybr-wisp&hide_border=true&ring=0B3D91&fire=0B3D91&currStreakLabel=0B3D91" />
+</p>
 
 <h4> ⚙️Technical Skills</h4>
 
@@ -77,8 +94,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybr-wisp" />
 </p>
 
-
-
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=cybr-wisp&bg_color=00000&color=000000&line=1F3A8A&point=38BDF8&area=true&area_color=1F3A8A&title_color=000000&custom_title=Marie's%20Contribution%20Graph&hide_border=true"
+    alt="Marie's Contribution Graph"
+  />
+</p>
+<h3 align="center">Most-used Frameworks / Tools</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+</p>
 
 ## Off-duty
 I’m into fashion archives, art, and culture — patterns, provenance, and the stories behind objects.  
