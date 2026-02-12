@@ -12,36 +12,23 @@
 ========================= -->
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Quant%20%2F%20AI%20%2F%20ML%20Builder-111827?style=for-the-badge" />
-</p>
-
-<p align="left">
  I'm an Honours BSc Computer Science student at the University of Ottawa (AI/ML concentration + Math/Stats minor), focused on building real, end-to-end systems where
   <b>quantitative finance</b>, <b>machine learning</b>, and <b>software engineering</b> meet.
   I enjoy taking ideas from research and modeling all the way to clean interfaces, dependable pipelines, and results you can actually measure.
 </p>
 
-<p align="left">
-  Currently: building an <b>event-driven backtester</b>, experimenting with <b>signal research</b>, and polishing a portfolio of ML + systems work.
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%E2%80%99s%20connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryamsindhu/)
+#### Current Focus:
+- Building an Event-Driven Backtester (C++/Python): order execution, slippage models, portfolio metrics
+- Alpha Signal Research: time-series + market microstructure experiments
 
 <p align="left">
   <a href="https://www.linkedin.com/in/maryamsindhu/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
-    <b> Let’s connect</b>
+    <b>   Let’s connect</b>
   </a>
 </p>
 
-<p align="left">
-  <a href="https://YOUR_PORTFOLIO_LINK"><b>Portfolio</b></a> •
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories"><b>Projects</b></a> •
-  <a href="mailto:YOUR_EMAIL"><b>Email</b></a>
-</p>
-
-##### Mathematical Foundations: Linear Algebra · Probability · Statistics · Optimization · Time Series
-##### 📃🖇️ Research Interests: Market Microstructure · Event-Driven Trading Systems · Alpha Signal Research · Reinforcement Learning · Distributed Systems
+#### 🖇️ Research Interests: Market Microstructure · Event-Driven Trading Systems · Alpha Signal Research · Reinforcement Learning · Distributed Systems
 ----
 <h4> ⚙️Technical Skills</h4>
 
@@ -107,24 +94,12 @@
   />
 </p>
 
-<h3 align="center">🚨 Most-Used Tools & Languages</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-</p>
-
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cybr-wisp&hide_border=true&ring=0B3D91&fire=0B3D91&currStreakLabel=0B3D91" />
 </p>
 
 
-
+----
 #### off-duty 
 I’m into fashion archives, art, and culture — patterns, provenance, and the stories behind objects.  
 I also write about it here: 🔗 [Substack – Marie Ruby Blue](https://marierubyblue.substack.com/)
