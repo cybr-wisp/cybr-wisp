@@ -7,9 +7,42 @@
   />
 </p>
 
+<!-- =========================
+     HERO HEADER
+========================= -->
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Quant%20%2F%20AI%20%2F%20ML%20Builder-111827?style=for-the-badge" />
+</p>
 
+<p align="left">
+ I'm an Honours BSc Computer Science student at the University of Ottawa (AI/ML concentration + Math/Stats minor), focused on building real, end-to-end systems where
+  <b>quantitative finance</b>, <b>machine learning</b>, and <b>software engineering</b> meet.
+  I enjoy taking ideas from research and modeling all the way to clean interfaces, dependable pipelines, and results you can actually measure.
+</p>
 
+<p align="left">
+  Currently: building an <b>event-driven backtester</b>, experimenting with <b>signal research</b>, and polishing a portfolio of ML + systems work.
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%E2%80%99s%20connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryamsindhu/)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/maryamsindhu/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
+    <b> Let’s connect</b>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://YOUR_PORTFOLIO_LINK"><b>Portfolio</b></a> •
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories"><b>Projects</b></a> •
+  <a href="mailto:YOUR_EMAIL"><b>Email</b></a>
+</p>
+
+##### Mathematical Foundations: Linear Algebra · Probability · Statistics · Optimization · Time Series
+##### 📃🖇️ Research Interests: Market Microstructure · Event-Driven Trading Systems · Alpha Signal Research · Reinforcement Learning · Distributed Systems
+----
 <h4> ⚙️Technical Skills</h4>
 
 <table>
@@ -67,8 +100,6 @@
 </table
 
 
-
-
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=cybr-wisp&bg_color=00000&color=000000&line=1F3A8A&point=38BDF8&area=true&area_color=1F3A8A&title_color=000000&custom_title=Marie's%20Contribution%20Graph&hide_border=true"
@@ -86,90 +117,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
 </p>
--------
-### Mathematical Foundations
-Linear Algebra · Probability Theory · Statistical Inference · Optimization · Stochastic Processes
-### Research Interests
-Market Microstructure · Event-Driven Systems · Reinforcement Learning · Alpha Signal Engineering · Distributed Systems
 
-<!-- =========================
-     HERO HEADER
-========================= -->
-
-<p align="left">
-  <small><b>YOUR_USERNAME</b> / README.md</small>
-</p>
-
-<h1 align="left">👑 Marie Sindhu</h1>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Quant%20%2F%20AI%20%2F%20ML%20Builder-111827?style=for-the-badge" />
-</p>
-
-<p align="left">
-  I'm an Honours BSc Computer Science student at the University of Ottawa (AI/ML + Math minor) building practical systems at the intersection of
-  <b>quantitative finance</b>, <b>machine learning</b>, and <b>software engineering</b>.
-  I like shipping end-to-end projects—from research + modeling to clean interfaces, reliable pipelines, and measurable results.
-</p>
-
-<p align="left">
-  Currently: building an <b>event-driven backtester</b>, experimenting with <b>signal research</b>, and polishing a portfolio of ML + systems work.
-</p>
-
-<!-- =========================
-     STATS / BADGES ROW
-========================= -->
-
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-20+-E11D48?style=for-the-badge" />
-  </a>
-  <a href="https://www.kaggle.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/KAGGLE-Profile-0EA5E9?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Follow-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=stars">
-    <img src="https://img.shields.io/badge/STARS-⭐-16A34A?style=for-the-badge" />
-  </a>
-</p>
-
-<!-- =========================
-     OPTIONAL: TOOL ICONS
-========================= -->
-
-<h3 align="left">Most-used Frameworks / Tools</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-</p>
-
-<!-- =========================
-     OPTIONAL: QUICK LINKS
-========================= -->
-
-<p align="left">
-  <a href="https://YOUR_PORTFOLIO_LINK"><b>Portfolio</b></a> •
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories"><b>Projects</b></a> •
-  <a href="mailto:YOUR_EMAIL"><b>Email</b></a>
-</p>
-
-
-### Mathematical Foundations
-Linear Algebra · Probability · Statistics · Optimization · Time Series
-
-### Research Interests
-Market Microstructure · Event-Driven Trading Systems · Alpha Signal Research · Reinforcement Learning · Distributed Systems
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cybr-wisp&hide_border=true&ring=0B3D91&fire=0B3D91&currStreakLabel=0B3D91" />
 </p>
+
 
 
 #### off-duty 
