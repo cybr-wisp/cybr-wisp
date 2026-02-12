@@ -1,27 +1,14 @@
+<!-- Title-Typing Animation -->
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&pause=900&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I%E2%80%99m+Marie;Welcome+to+my+GitHub%21+%E2%9C%A8"
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=32&pause=900&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I%E2%80%99m+Marie;Welcome+to+my+GitHub%21+%E2%9C%A8"
     alt="Typing SVG"
   />
 </p>
 
--------
-### Mathematical Foundations
-Linear Algebra · Probability Theory · Statistical Inference · Optimization · Stochastic Processes
-### Research Interests
-Market Microstructure · Event-Driven Systems · Reinforcement Learning · Alpha Signal Engineering · Distributed Systems
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cybr-wisp&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cybr-wisp&hide_border=true&background=0A192F&ring=1F3A8A&fire=1F3A8A&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=94A3B8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cybr-wisp&hide_border=true&ring=0B3D91&fire=0B3D91&currStreakLabel=0B3D91" />
-</p>
 
 <h4> ⚙️Technical Skills</h4>
 
@@ -79,20 +66,8 @@ Market Microstructure · Event-Driven Systems · Reinforcement Learning · Alpha
   </tr>
 </table
 
-<img src="https://github-readme-stats.vercel.app/api?username=cybr-wisp&show_icons=true&cache_seconds=21600" />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cybr-wisp&show_icons=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybr-wisp&layout=compact" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cybr-wisp" height="170" />
-</p>
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybr-wisp" />
-</p>
 
 <p align="center">
   <img
@@ -100,20 +75,106 @@ Market Microstructure · Event-Driven Systems · Reinforcement Learning · Alpha
     alt="Marie's Contribution Graph"
   />
 </p>
-<h3 align="center">Most-used Frameworks / Tools</h3>
+
+<h3 align="center">🚨 Most-Used Tools & Languages</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+</p>
+-------
+### Mathematical Foundations
+Linear Algebra · Probability Theory · Statistical Inference · Optimization · Stochastic Processes
+### Research Interests
+Market Microstructure · Event-Driven Systems · Reinforcement Learning · Alpha Signal Engineering · Distributed Systems
+
+<!-- =========================
+     HERO HEADER
+========================= -->
+
+<p align="left">
+  <small><b>YOUR_USERNAME</b> / README.md</small>
+</p>
+
+<h1 align="left">👑 Marie Sindhu</h1>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Quant%20%2F%20AI%20%2F%20ML%20Builder-111827?style=for-the-badge" />
+</p>
+
+<p align="left">
+  I'm an Honours BSc Computer Science student at the University of Ottawa (AI/ML + Math minor) building practical systems at the intersection of
+  <b>quantitative finance</b>, <b>machine learning</b>, and <b>software engineering</b>.
+  I like shipping end-to-end projects—from research + modeling to clean interfaces, reliable pipelines, and measurable results.
+</p>
+
+<p align="left">
+  Currently: building an <b>event-driven backtester</b>, experimenting with <b>signal research</b>, and polishing a portfolio of ML + systems work.
+</p>
+
+<!-- =========================
+     STATS / BADGES ROW
+========================= -->
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJECTS-20+-E11D48?style=for-the-badge" />
+  </a>
+  <a href="https://www.kaggle.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/KAGGLE-Profile-0EA5E9?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Follow-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME?tab=stars">
+    <img src="https://img.shields.io/badge/STARS-⭐-16A34A?style=for-the-badge" />
+  </a>
+</p>
+
+<!-- =========================
+     OPTIONAL: TOOL ICONS
+========================= -->
+
+<h3 align="left">Most-used Frameworks / Tools</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
 </p>
 
+<!-- =========================
+     OPTIONAL: QUICK LINKS
+========================= -->
+
+<p align="left">
+  <a href="https://YOUR_PORTFOLIO_LINK"><b>Portfolio</b></a> •
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories"><b>Projects</b></a> •
+  <a href="mailto:YOUR_EMAIL"><b>Email</b></a>
+</p>
+
+
+### Mathematical Foundations
+Linear Algebra · Probability · Statistics · Optimization · Time Series
+
+### Research Interests
+Market Microstructure · Event-Driven Trading Systems · Alpha Signal Research · Reinforcement Learning · Distributed Systems
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cybr-wisp&hide_border=true&ring=0B3D91&fire=0B3D91&currStreakLabel=0B3D91" />
+</p>
+
+
 #### off-duty 
 I’m into fashion archives, art, and culture — patterns, provenance, and the stories behind objects.  
-I also write about it here: https://marierubyblue.substack.com/
+I also write about it here: 🔗 [Substack – Marie Ruby Blue](https://marierubyblue.substack.com/)
 
 <p align="left">
   <img src="https://i.pinimg.com/736x/1e/e9/cb/1ee9cbac0c1e15462c4478a61bc5d6d7.jpg" alt="Fashion archive bunny meme" width="200" />
