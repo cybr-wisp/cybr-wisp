@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=32&pause=900&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I%E2%80%99m+Marie;Welcome+to+my+GitHub%21+%E2%9C%A8"
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=32&pause=900&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I%E2%80%99m+Maryam!;Welcome+to+my+GitHub%21+%E2%9C%A8"
     alt="Typing SVG"
   />
 </p>
@@ -14,14 +14,8 @@
 ========================= -->
 
 <p align="left">
- I'm an Honours BSc Computer Science student at the University of Ottawa (AI/ML concentration + Math/Stats minor), focused on building real, end-to-end systems where
-  <b>quantitative finance</b>, <b>machine learning</b>, and <b>software engineering</b> meet.
-  I enjoy taking ideas from research and modeling all the way to clean interfaces, dependable pipelines, and results you can actually measure.
+I'm an Honours BSc Computer Science student at the University of Ottawa (AI/ML concentration + Math/Statistics minor), passionate about building reliable, end-to-end software systems. My interests span systems programming, computer networks, machine learning, and software engineering, with a focus on designing performant infrastructure, writing deterministic tests, and turning complex technical ideas into robust, production-quality applications.
 </p>
-
-#### Current Focus:
-- Building an Event-Driven Backtester (C++/Python): order execution, slippage models, portfolio metrics
-- Alpha Signal Research: time-series + market microstructure experiments
 
 <p align="left">
   <a href="https://www.linkedin.com/in/maryamsindhu/" target="_blank" rel="noopener noreferrer">
@@ -101,11 +95,3 @@
 </p>
 
 
-----
-#### off-duty 
-I’m into fashion archives, art, and culture — patterns, provenance, and the stories behind objects.  
-I also write about it here: 🔗 [Substack – Marie Ruby Blue](https://marierubyblue.substack.com/)
-
-<p align="left">
-  <img src="https://i.pinimg.com/736x/1e/e9/cb/1ee9cbac0c1e15462c4478a61bc5d6d7.jpg" alt="Fashion archive bunny meme" width="200" />
-</p>
