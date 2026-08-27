@@ -7,8 +7,8 @@
 
 <p align="center">
   <img
-    width="900"
-    height="500"
+    width="1000"
+    height="700"
     alt="Screenshot 2026-08-26 210750"
     src="https://github.com/user-attachments/assets/a1b8d827-bec8-4e20-b83e-b8ed8b3d8cd0"
   />
