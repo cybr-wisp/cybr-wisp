@@ -119,7 +119,7 @@
 </table>
 
 
-<p align="left">
+<p align="center">
   <strong>Let's connect!</strong>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/maryamsindhu/">
