@@ -125,8 +125,8 @@
   <a href="https://www.linkedin.com/in/maryamsindhu/">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      width="32"
-      height="32"
+      width="30"
+      height="30"
       alt="LinkedIn"
       align="center"
     />
