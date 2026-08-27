@@ -4,7 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=cybr-wisp&color=000000&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </p>
 
-
 <p align="center">
   <img
     width="1000"
